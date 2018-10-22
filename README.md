@@ -25,5 +25,5 @@ Go to [http://0.0.0.0:8000](http://0.0.0.0:8000) to see all results.
 ```
 make server
 ```  
-Go to [http://0.0.0.0:8000/?search=yourWord](http://0.0.0.0:8000/?search=yourWord) to find games with 'yourWord' in name.  
+Go to [http://0.0.0.0:8000/?search=yourWord](http://0.0.0.0:8000/?search=yourWord) to find games with 'yourWord' in names.  
 Example: [http://0.0.0.0:8000/?search=Wordscapes](http://0.0.0.0:8000/?search=Wordscapes)
