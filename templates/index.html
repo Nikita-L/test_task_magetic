@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Magetic</title>
+</head>
+<body>
+{% for category, games in results.items() %}
+        {% for game in games %}
+            /{{category}}/{{game}}<br>
+        {% endfor %}
+{% endfor %}
+</body>
+</html>
